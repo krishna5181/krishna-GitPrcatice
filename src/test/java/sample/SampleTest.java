@@ -9,5 +9,11 @@ public class SampleTest
 	{
 		System.out.println("Shuttle badminton is my favourite sport");
 	}
+	
+	@Test
+	public void game2()
+	{
+		System.out.println("Cricket is my second fav sport");
+	}
 
 }
